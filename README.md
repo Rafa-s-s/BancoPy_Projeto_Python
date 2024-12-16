@@ -39,8 +39,8 @@ BancoPy/
 
 Para facilitar o aprendizado e a compreensão do código, criei notebooks interativos com explicações detalhadas:
 
-1. **[BancoPy - Explicação Completa Parte 1](https://github.com/seu-usuario/BancoPy/releases/download/v1.0/BancoPy_Explicado.ipynb)**  
-2. **[BancoPy - Explicação Completa Parte 2](https://github.com/seu-usuario/BancoPy/releases/download/v1.0/BancoPy_Explicado_Parte2.ipynb)**
+1. **[BancoPy - Explicação Completa Parte 1](https://github.com/Rafa-s-s/BancoPy_Projeto_Python/blob/main/BancoPy_Explicado.ipynb)**  
+2. **[BancoPy - Explicação Completa Parte 2](https://github.com/Rafa-s-s/BancoPy_Projeto_Python/blob/main/BancoPy_Explicado_Parte2.ipynb)**
 
 ---
 
@@ -48,7 +48,7 @@ Para facilitar o aprendizado e a compreensão do código, criei notebooks intera
 
 Você pode baixar a versão completa do projeto clicando no link abaixo:
 
-**[Download da Release - BancoPy v1.0](https://github.com/seu-usuario/BancoPy/releases)**
+**[Download da Release - BancoPy v1.0](https://github.com/Rafa-s-s/BancoPy_Projeto_Python/releases/tag/v1.0.0)**
 
 ---
 
@@ -68,3 +68,5 @@ Este projeto está licenciado sob os termos da **MIT License**. Consulte o arqui
 ## 🤝 Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, sugerir melhorias ou colaborar com o projeto.
+
+![BancoPy _img](https://github.com/user-attachments/assets/bea0e0ce-35a4-4509-855e-e90e6a2abc92)
